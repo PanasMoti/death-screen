@@ -4,3 +4,7 @@ The Death-Screen project is a fun and interactive application that simulates the
 
 ## Disclaimer
 Before proceeding, please be aware that this project is intended for entertainment purposes only and should be used responsibly. The usage of inappropriate language or content can offend or harm others, so be considerate of your audience and environment. Additionally, the following actions described involve changing the computer's IP and wallpaper, which may be perceived as intrusive or potentially harmful behavior. Always obtain proper authorization from the computer owner or administrator before using the application on any computer.
+
+## How to Use
+1. if you can build it yourself with rust go ahead
+2. if youre on windows download the `death-screen-release-win64` folder and run the exe
